@@ -15,3 +15,5 @@
 	cd "${path}"
 	
 	use "$data/UNHS_2016_merged_all_modules.dta", clear
+	
+	* Sample edit for GitHub
