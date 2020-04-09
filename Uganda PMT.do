@@ -2,7 +2,7 @@
 * UGANDA PROXY MEANS TEST
 * ==============================================================================
 
-	* Eric Chu, Parker Essick, Leseine Gitau, Olawumni Ola-Busari
+	* Eric Chu, Parker Essick, Leseine Gitau, and Olawumni Ola-Busari
 	* Global Human Development Program, Georgetown University
 
 	set more off
