@@ -9,8 +9,8 @@
 	clear all
 	macro drop _all
 
-		global path		"/Users/parkeressick/Desktop/Uganda PMT"
-		global data 	"${path}/data/"
+		global path		"{insert your path}"
+		global data 		"${path}/data/"
 		global out		"${path}/output/"
 	cd "${path}"
 	
