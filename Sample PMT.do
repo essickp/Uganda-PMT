@@ -1,11 +1,7 @@
 * ==============================================================================
 * SAMPLE PMT FROM GHDP 638 IN-CLASS EXERCISE
 * ==============================================================================
-
-	* Parker Essick
-	* April 2, 2020
-
-	cd "/Users/parkeressick/Desktop/Spring 2020 Classwork/GHDP 638 (Public Finance)/Data/Class 12 Data +"
+	cd "{insert cd}"
 	use "Class 12 Targeting", clear
 
 * Define "official" or "actual" poor
