@@ -10,7 +10,7 @@
 	macro drop _all
 
 		global path		"{insert your path}"
-		global data 		"${path}/data/"
+		global data 	"${path}/data/"
 		global out		"${path}/output/"
 	cd "${path}"
 	
